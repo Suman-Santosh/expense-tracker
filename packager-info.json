@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": 19006,
+  "expoServerNgrokUrl": "https://hg-ida.anonymous.expense-tracker.exp.direct",
+  "packagerNgrokUrl": "https://packager.hg-ida.anonymous.expense-tracker.exp.direct",
+  "ngrokPid": 5472
+}
